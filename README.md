@@ -52,7 +52,6 @@ massage-studio-website/
 ├── public/                  # Static files (e.g., index.html, images)
 ├── src/                     # Source code
 │   ├── components/          # Reusable React components (e.g., Header, Testimonials)
-│   ├── pages/               # Main pages (e.g., Home, About, Testimonials)
 │   ├── App.js               # Main React app component
 │   ├── index.js             # Entry point for the app
 │   └── styles/              # Tailwind CSS and custom styles
