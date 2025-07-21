@@ -2,6 +2,8 @@
 
 Welcome to the official repository of the **Massage Studio Website**. This project is designed to offer a relaxing and intuitive online experience for clients seeking high-quality massage services. The website features responsive design, easy navigation, and a smooth booking process.
 
+[Live demo](https://masszazs-2.web.app/)
+
 ## Features
 
 - **Responsive Design**: The website adapts seamlessly to different screen sizes, from mobile phones to desktops.
